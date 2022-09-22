@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio-(Siddharth Chaudhary)</title>
+  <style>
+    *{
+      margin: 0;
+      padding: 0;
+      box
+    }
+  </style>
+</head>
+
+<body>
+  <div class="background"></div>
+  <h2 style="background-color: white;
+  height: 30px;
+  padding: 10px 0;">Siddharth Chaudhary</h2>
+</body>
+</html>
